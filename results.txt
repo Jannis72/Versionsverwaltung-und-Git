@@ -3,3 +3,8 @@ Date of Test: 2025-11-24 16:31:51
 Bubble Sort Time: 6.020719 seconds
 Quick Sort Time: 0.018997 seconds
 
+Computer Name: Jannis
+Date of Test: 2025-11-24 16:37:34
+Bubble Sort Time: 11.683811 seconds
+Quick Sort Time: 0.030541 seconds
+

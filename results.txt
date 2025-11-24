@@ -1,0 +1,5 @@
+Computer Name: Graphite
+Date of Test: 2025-11-24 16:31:51
+Bubble Sort Time: 6.020719 seconds
+Quick Sort Time: 0.018997 seconds
+
